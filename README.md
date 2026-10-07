@@ -85,7 +85,7 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/jope01/LOGIC.git
    ```
 
 2. **Abra o projeto na Engine:**
@@ -113,18 +113,18 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 
 | Foto | Nome | Função / Papel | Redes / Contato |
 | :---: | :--- | :--- | :--- |
-| 🧑‍💻 | **[Nome do Integrante 1]** | Game Developer / Programmer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) |
-| 🎨 | **[Nome do Integrante 2]** | UI/UX Designer / Game Artist | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) |
-| 🎮 | **[Nome do Integrante 3]** | Game Designer / Sound Designer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) |
+| 🧑‍💻 | **João Pedro** | Game Developer / Programmer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) |
+| 🎨 | **Bruno** | UI/UX Designer / Game Artist | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) |
+| 🎮 | **Luiz** | Game Designer / Sound Designer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) |
 
 ---
 
 ## 🎓 Orientadores e Instituição
 
-* **Instituição:** [Nome da Faculdade / Escola Técnica]
-* **Curso:** [Nome do Curso]
-* **Semestre/Ano:** [Ex: 4º Semestre - 2024]
-* **Professor(a) Orientador(a):** Prof. Dr./Me. [Nome do Professor]
+* **Instituição:** FATEC-SP
+* **Curso:** DSM
+* **Semestre/Ano:** 1º Semestre 
+* **Professor(a) Orientador(a):** Prof. Dr./Me. Fred
 
 ---
 
