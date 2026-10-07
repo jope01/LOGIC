@@ -1,12 +1,12 @@
-# 🎮 [Nome do Jogo] — Projeto Integrador
+# 🎮 LOGIC — Projeto Integrador
 
-> **[Subtítulo / Slogan curto do jogo, ex: "Uma jornada épica de plataforma 2D em um mundo distópico."]**
+> **O Futuro da Educação.**
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este repositório contém o código-fonte, assets e documentação do jogo **[Nome do Jogo]**, desenvolvido como **Projeto Integrador** para o curso de **[Nome do Curso, ex: Jogos Digitais / Análise e Desenvolvimento de Sistemas]** da **[Nome da Instituição / Universidade]**.
+Este repositório contém o código-fonte, assets e documentação do jogo **LOGIC**, desenvolvido como **Projeto Integrador** para o curso de **Desenvolvimento de software de Multiplataformas** da **FATEC-SP**.
 
 O objetivo do projeto é aplicar de forma prática os conhecimentos adquiridos em disciplinas como desenvolvimento de jogos, design de experiência (UX/UI), arte digital, arquitetura de software e gestão de projetos.
 
