@@ -1,4 +1,5 @@
-# 🎮 LOGIC — Projeto Integrador
+# 🎮 LOGIC — Projeto Integrador.
+
 
 > <h1>O Futuro da Educação.</h1>
 
